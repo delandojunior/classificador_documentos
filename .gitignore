@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#secure files
+
+bernhoeft-238615-e497bc3f80b2.json
+enviroments.py
+NNnewBern-d2a148b78065.json
+
+.vscode/
