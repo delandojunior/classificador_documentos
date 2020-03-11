@@ -44,7 +44,7 @@ Flask = "==1.0.3"
 Flask-RESTful = "==0.3.7"
 Jinja2 = "==2.10.1"
 MarkupSafe = "==1.1.1"
-Pillow = "==6.0.0"
+Pillow = "==6.2.0"
 websocket_client = "==0.48.0"
 Werkzeug = "==0.15.4"
 
